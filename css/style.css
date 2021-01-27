@@ -1,0 +1,127 @@
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+.header span {
+	color: red;
+	font-weight: bolder;
+	font-size: x-large;
+}
+
+.text span {
+	color: blue;
+	font-weight: bolder;
+}
+
+.header {
+	font-size: large;
+	font-style: italic;
+}
+
+
+.text__item span {
+	color: red;
+	font-weight: bolder;
+	font-size: large;
+}
+
+.text {
+	color: greenyellow;
+}
+
+.text__item {
+	color: brown;
+}
+
+.text__suport {
+	color: navy
+}
+.text__0 {
+	color: rgb(200, 200, 8);
+	font-size: large;
+	font-style: oblique;
+}
+
+.text__1 {
+	color: seagreen;
+	font-size: small;
+	font-style: italic;
+	font-weight: bolder;
+}
+.text__2 {
+	color: rgb(253, 5, 199);
+	font-size: large;
+	font-style: normal;
+	font-weight: bold;
+}
+.text__and {
+	color: slategray;
+}
+
+.id {
+ color: rgb(2, 1, 66);
+}
+
+#title-0 {
+	color: red;
+	font-size: xx-large;
+	font-weight: bolder;
+	font-style: normal;
+	position: relative;
+	left: 300px;
+}
+#title-2 {
+	color: rgb(136, 6, 88);
+	font-weight: bolder;
+	font-size: xx-large;
+	position: relative;
+	left: 50px;
+}
+
+#title-3 {
+	color: rgb(200, 200, 8);
+	font-weight: bolder;
+	font-size: xx-large;
+	position: relative;
+	left: 50px;
+}
+
+#title-4 {
+	color: rgb(146, 97, 211);
+	font-weight: bolder;
+	font-size: xx-large;
+	position: relative;
+	left: 50px;
+}
+
+#title-5 {
+	color:greenyellow;
+	font-weight: bolder;
+	font-size: xx-large;
+	position: relative;
+	left: 50px;
+}
